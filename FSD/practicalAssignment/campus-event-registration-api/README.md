@@ -1,7 +1,9 @@
 # Campus Event Registration REST API
 
 **Student Name:** Vrinda
+
 **UID / Roll Number:** 24BCS10172
+
 **Course:** Full Stack Development (FSD) Practical Assignment
 
 ---
